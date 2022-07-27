@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/matthewcheng/Desktop/CSCI 304/Assignments/Assignment 6/contact.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+contact.h
+/Users/matthewcheng/Desktop/CSCI 304/Assignments/Assignment 6/contact.h
+
+/Users/matthewcheng/Desktop/CSCI 304/Assignments/Assignment 6/contact.h
+
+/Users/matthewcheng/Desktop/CSCI 304/Assignments/Assignment 6/contact_list.h
+contact.h
+/Users/matthewcheng/Desktop/CSCI 304/Assignments/Assignment 6/contact.h
+
+/Users/matthewcheng/Desktop/CSCI 304/Assignments/Assignment 6/main.c
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+stdlib.h
+-
+utils.h
+/Users/matthewcheng/Desktop/CSCI 304/Assignments/Assignment 6/utils.h
+contact.h
+/Users/matthewcheng/Desktop/CSCI 304/Assignments/Assignment 6/contact.h
+contact_list.h
+/Users/matthewcheng/Desktop/CSCI 304/Assignments/Assignment 6/contact_list.h
+
+/Users/matthewcheng/Desktop/CSCI 304/Assignments/Assignment 6/utils.h
+
